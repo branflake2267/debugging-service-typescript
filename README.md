@@ -11,11 +11,14 @@ This is a simple backend service project template written with TypeScript.
 | Language | TypeScript |
 | Architecture | npm/node |
 | IDE | Visual Studio Code |
+| License | Apache 2 |
 
 
 ## Build
 
 * Run `npm run build`
+* The source is output to the `./dist` directory.
+
 
 
 ## Debugging
