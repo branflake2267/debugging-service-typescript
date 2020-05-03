@@ -1,5 +1,5 @@
 # Debugging a backend service written with TypeScript
-Debugging a simple TypeScript backend service using Visual Studio Code. 
+This is one way to debug a simple backend service written with TypeScript. 
 
 ## Youtube Tutorial
 
