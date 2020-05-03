@@ -1,0 +1,29 @@
+{
+  "name": "debugging-service-typescript",
+  "version": "1.0.0",
+  "description": "Debugging a backend serivice.",
+  
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/branflake2267/debugging-service-typescript.git"
+  },
+  
+  "author": "Brandon Donnelson",
+  "license": "Apache2",
+  
+  "bugs": {
+    "url": "https://github.com/branflake2267/debugging-service-typescript/issues"
+  },
+
+  "homepage": "https://github.com/branflake2267/debugging-service-typescript#readme",
+
+  "scripts": {
+    "build": "compile-typescript",
+    "compile-typescript": "tsc",
+    "service": "node ./dist/launchers/launch_service.js"
+  },
+
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
