@@ -4,7 +4,7 @@ This is a simple backend service project template written with TypeScript.
 ## Youtube Tutorial
 
 
-## Configuration
+## Project Configuration
 | Setting | Value |
 | --- | --- |
 | Purpose | Backend service |
