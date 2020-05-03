@@ -1,5 +1,5 @@
 # Debugging a backend service written with TypeScript
-This is one way to debug a simple backend service written with TypeScript. 
+This is a simple backend service project template written with TypeScript. 
 
 ## Youtube Tutorial
 
@@ -9,8 +9,8 @@ This is one way to debug a simple backend service written with TypeScript.
 | --- | --- |
 | Purpose | Backend service |
 | Language | TypeScript |
-| IDE | Visual Studio Code |
 | Architecture | npm/node |
+| IDE | Visual Studio Code |
 
 
 ## Build
