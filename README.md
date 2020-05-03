@@ -7,6 +7,7 @@ Debugging a simple TypeScript backend service using Visual Studio Code.
 ## Configuration
 | Setting | Value |
 | --- | --- |
+| Purpose | Backend service |
 | Language | TypeScript |
 | IDE | Visual Studio Code |
 | Architecture | npm/node |
