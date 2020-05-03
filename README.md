@@ -9,6 +9,8 @@ Debugging a simple TypeScript backend service using Visual Studio Code.
 | --- | --- |
 | Language | TypeScript |
 | IDE | Visual Studio Code |
+| Architecture | npm/node |
+
 
 ## Build
 
