@@ -16,6 +16,7 @@ This is a simple backend service project template written with TypeScript.
 
 ## Build
 
+* Run `npm install`
 * Run `npm run build`
 * The source is output to the `./dist` directory.
 
