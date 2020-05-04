@@ -9,7 +9,7 @@
   },
   
   "author": "Brandon Donnelson",
-  "license": "Apache2",
+  "license": "GPL v3",
   
   "bugs": {
     "url": "https://github.com/branflake2267/debugging-service-typescript/issues"
