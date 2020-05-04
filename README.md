@@ -28,7 +28,6 @@ VS Code can run the service which allows for execution breakpoints, stack tracin
 
 * Open VSCode and go to the launchers and run `Launch Service`.
 
-
 ### Debug with npm
 npm can execute the service, but start with building it first.
 
