@@ -1,7 +1,7 @@
 # Debugging a backend service written with TypeScript
 This is a simple backend service project template written with TypeScript. 
 
-## Youtube Tutorial
+[![Debugging Video Tutorial](https://img.youtube.com/vi/cjTZT5S3MrY/0.jpg)](https://www.youtube.com/watch?v=cjTZT5S3MrY)
 
 
 ## Project Configuration
