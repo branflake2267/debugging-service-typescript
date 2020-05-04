@@ -13,7 +13,7 @@
   },
   "homepage": "https://github.com/branflake2267/debugging-service-typescript#readme",
   "scripts": {
-    "build": "compile-typescript",
+    "build": "npm run compile-typescript",
     "compile-typescript": "tsc",
     "service": "node ./dist/launchers/launch_service.js"
   },
