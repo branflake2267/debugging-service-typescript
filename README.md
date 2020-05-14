@@ -12,6 +12,7 @@ This is a simple backend service project template written with TypeScript.
 | Architecture | npm/node |
 | IDE | Visual Studio Code |
 | License | GPL v3 |
+| Tutorial | [Youtube Tutorial](https://www.youtube.com/watch?v=cjTZT5S3MrY) |
 
 
 ## Build
